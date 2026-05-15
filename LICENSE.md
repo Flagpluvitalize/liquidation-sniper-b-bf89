@@ -1,4 +1,4 @@
-# 
+# custom Trading Bot for liquidation sniper bot | cross-margin & scalping is the best liquidation sniper bot, featuring cross-margin and scalping. Smart, fast, and optimized for
 
 
 
